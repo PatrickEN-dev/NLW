@@ -8,9 +8,9 @@ ul {
     list-style: none;
 }
 body {
-    background-clip: url(./assets/bg.gif);
+    background-image: url(./assets/gif\ cyberpunk.gif);
+    background-size: cover;
     background-position:top center;
-    background: 100% auto;
     background-repeat: no-repeat;
     background-color: #121214;
 }
@@ -18,7 +18,6 @@ body {
 body * {
     font-family: 'inter', sans-serif;
     line-height: 160%;
-
 }
 
 header {
